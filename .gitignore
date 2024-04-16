@@ -24,14 +24,6 @@ hs_err_pid*
 replay_pid*
 
 # project
-*.bat
-*.gradle
-*.properties
-/.gradle/
-/.idea/
-/gradle/
-/build
 /*.docx
-!/app/src/
 /app/build
 /app/release
